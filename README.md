@@ -16,9 +16,8 @@ Contains py files of the robot control algorithms.
 * 8sensKola5czas49.py : Best for easy map. 
 * gearsPython.py : Default algorithm that is worth modifying. Contains comments that describe the code for the purpose of understanding it.
 
-### 
-!nazwa alternatywna
-[Film]![<Zdjecie filmu>](./img/film.jpg)(https://youtu.be/sbSGgd5mUig?si=rP5f5NeyQFozdSCt).
-
+### Preview (screenshot) and video on YouTube
+[Screen shoot](./img/film.jpg)
+[Film on YT](https://youtu.be/sbSGgd5mUig?si=rP5f5NeyQFozdSCt)
 
 

@@ -18,7 +18,7 @@ Contains py files of the robot control algorithms.
 
 ### 
 !nazwa alternatywna
-[StormIt](https://www.stormit.pl).
-![<Zdjecie filmu>](./img/film.jpg)
-https://youtu.be/sbSGgd5mUig?si=rP5f5NeyQFozdSCt
+[Film]![<Zdjecie filmu>](./img/film.jpg)(https://youtu.be/sbSGgd5mUig?si=rP5f5NeyQFozdSCt).
+
+
 

@@ -1,0 +1,1 @@
+8sensKola5czas49.py program uzyskujący najszybczy czas przejazdu na trasie easy. 

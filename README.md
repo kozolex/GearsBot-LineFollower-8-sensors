@@ -18,6 +18,6 @@ Description of file names:<br>
 
 ### Preview (screenshot) and video on YouTube
 ![Screen shoot](./img/film.jpg)
-![Film on YT](https://youtu.be/sbSGgd5mUig?si=rP5f5NeyQFozdSCt)
+[Film on YT - LINK](https://youtu.be/sbSGgd5mUig?si=rP5f5NeyQFozdSCt)
 
 
